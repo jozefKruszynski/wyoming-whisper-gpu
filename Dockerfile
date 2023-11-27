@@ -1,4 +1,4 @@
-FROM nvidia/cuda:11.7.1-base-ubuntu22.04
+FROM nvidia/cuda:12.2.2-base-ubuntu22.04
 
 # Install Whisper
 WORKDIR /usr/src
